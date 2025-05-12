@@ -1,3 +1,4 @@
+@media screen and (min-width = 200px){
 body {
     margin: 0;
     text-align: center;
@@ -128,4 +129,5 @@ button {
 }
 a:hover {
     color: whitesmoke;
+}
 }
